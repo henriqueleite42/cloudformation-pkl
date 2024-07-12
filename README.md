@@ -1,11 +1,5 @@
 # cloudformation-pkl
 
-Pkl is a configuration language created by Apple (https://pkl-lang.org/index.html). 
-It is capable of serializing to other formats like YAML, so it's possible to
-write a CloudFormation template with pkl. This repository hosts the `cloudformation.pkl`
-package that can be imported into your projects to provide a type-safe authoring experience.
-The package also has a set of high level patterns that you adapt for your own needs.
-
 The following is a basic example of a pkl CloudFormation template.
 
 ```pkl
